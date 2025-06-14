@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🍥 I'm a **CTF Player & Cybersecurity Enthusiast**
-- 📚 Currently learning **Binary Exploitation**, **Web Security**, and **Reverse Engineering**
+- 📚 Currently learning **Binary Exploitation**, **Crypto**, and **Reverse Engineering**
 - 🔐 Passionate about solving real-world problems through hacking and security research
 - 🤝 Open to collaboration on CTFs, writeups, and infosec projects
 
